@@ -8,7 +8,7 @@ baseurl: ""
 
 # If you're using GitHub pages without a custom domain, this is "https://[github username].github.io"
 # If you're using GitHub pages with a custom domain, this is "http://[your domain]" (or https if you're using SSL)
-url: "https://ClinHacks.github.io"
+url: ""
 
 # The ability to use custom themes.
 style:
@@ -24,7 +24,7 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "ClinHacks | 13/14 March 2021"
+  title:       ""
   description: "A medical themed, global, virtual hackathon."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
